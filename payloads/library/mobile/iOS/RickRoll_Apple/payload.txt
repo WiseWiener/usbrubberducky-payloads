@@ -9,10 +9,6 @@ REM Category:	Prank
 REM Source: https://github.com/UberGuidoZ/OMG-Payloads
 GUI SPACE
 DELAY 300
-STRING Safari
-ENTER
-DELAY 500
-GUI t
 STRINGLN https://www.youtube.com/watch?v=xm3YgoEiEDc
 DELAY 500
-STRING f
+ENTER
